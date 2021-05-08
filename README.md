@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/3"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:37:59"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:40:45"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -106,7 +106,9 @@
 
 新建一个issue， 并给这个issue打上`:framed_picture:封面`标签，(最好只给一个issue打上此标签。)
 
-这个issue中的所有评论内容都要遵循下面的格式：`图片<br/>
+这个issue中的所有评论内容都要遵循下面的格式：
+
+图片<br/>
 
 [更多>>>](https://github.com/rdp-studio/ghiblog/issues/1)
 
