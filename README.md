@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 11:00:05"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 11:02:08"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -40,8 +40,7 @@
 
 :label: : [:framed_picture:封面](https://github.com/rdp-studio/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
 
-![RDPStudio's github stats](https://rdp-github-readme-stats.vercel.app/api?username=rdp-studio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+这里的评论都将作为封面显示在博客中，请勿回复。
 
 [更多>>>](https://github.com/rdp-studio/ghiblog/issues/6)
 
