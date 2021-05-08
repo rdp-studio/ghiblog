@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 09:30:07"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 09:32:53"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -19,7 +19,7 @@
 
 ## 置顶 :thumbsup: 
 - [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
-- [基于Github Action自动生成并更新GitHub Issue博客项目ghiblog的ReadMe](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+- [此项目的ReadMe文件](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
 #### [发现一个在线下载油管视频的网站](https://github.com/rdp-studio/ghiblog/issues/4) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:56:48
@@ -55,7 +55,7 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 ---
 
 
-#### [基于Github Action自动生成并更新GitHub Issue博客项目ghiblog的ReadMe](https://github.com/rdp-studio/ghiblog/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:08:45
+#### [此项目的ReadMe文件](https://github.com/rdp-studio/ghiblog/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:08:45
 
 :label: : [:+1:置顶](https://github.com/rdp-studio/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 
@@ -152,7 +152,7 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 <summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
 
 - [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
-- [基于Github Action自动生成并更新GitHub Issue博客项目ghiblog的ReadMe](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+- [此项目的ReadMe文件](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
