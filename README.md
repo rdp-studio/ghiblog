@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/3"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:09:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:28:27"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -18,8 +18,20 @@
 
 
 ## 置顶 :thumbsup: 
+- [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 - [项目ReadMe](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:27:58
+
+:label: : [:+1:置顶](https://github.com/rdp-studio/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
+
+我们是RDPStudio，自2019年（8.31日）成立至今已经走过了3年。一切的开始——一个钉钉组织。至今只有创建者兼开发人员曾维康以及开发人员黎小悦2人属于骨干人员，目前已经开发（或改进第三方项目）97+个。尽管RDPStudio已有多年的历史，但它的去从仍然是个连RDPStudio管理者都不知
+
+[更多>>>](https://github.com/rdp-studio/ghiblog/issues/2)
+
+---
+
 
 #### [项目ReadMe](https://github.com/rdp-studio/ghiblog/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:08:45
 
@@ -116,8 +128,9 @@ push
 
 
 <details>
-<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
 
+- [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 - [项目ReadMe](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 
 
