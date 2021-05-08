@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 12:17:36"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 12:20:01"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -22,12 +22,12 @@
 <p align='center'>
 <a href='https://github.com/rdp-studio/ghiblog/issues/6#issuecomment-835334837'>
 <img src='https://teadocs.cn.utools.club/static/snapshot.png' width='50%' alt='
-[Teadocs - 更便捷、更快速的文档生成工具。](https://teadocs.cn.utools.club)'>
+<a href="https://teadocs.cn.utools.club">Teadocs - 更便捷、更快速的文档生成工具。</a>'>
 </a>
 </p>
 <p align='center'>
 <span>
-[Teadocs - 更便捷、更快速的文档生成工具。](https://teadocs.cn.utools.club)</span>
+<a href="https://teadocs.cn.utools.club">Teadocs - 更便捷、更快速的文档生成工具。</a></span>
 </p>
 
     
