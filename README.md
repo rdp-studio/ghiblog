@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 23:40:23"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 23:56:26"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -20,14 +20,14 @@
 
 
 <p align='center'>
-<a href='https://github.com/rdp-studio/ghiblog/issues/6#issuecomment-835334837'>
-<img src='https://teadocs.cn.utools.club/static/snapshot.png' width='50%' alt='
-<a href="https://teadocs.cn.utools.club">Teadocs - 更便捷、更快速的文档生成工具。</a>'>
+<a href='https://github.com/rdp-studio/ghiblog/issues/6#issuecomment-835581019'>
+<img src='https://github.com/rdp-studio/ghiblog/raw/master/assets/ghiblog.png' width='50%' alt='
+<a href="https://github.com/rdp-studio/ghiblog/issues/1">ghiblog - 方便易用的Github Issues博客系统。</a>'>
 </a>
 </p>
 <p align='center'>
 <span>
-<a href="https://teadocs.cn.utools.club">Teadocs - 更便捷、更快速的文档生成工具。</a></span>
+<a href="https://github.com/rdp-studio/ghiblog/issues/1">ghiblog - 方便易用的Github Issues博客系统。</a></span>
 </p>
 
     
@@ -58,7 +58,7 @@
 ---
 
 
-#### [封面](https://github.com/rdp-studio/ghiblog/issues/6) <sup>2 :speech_balloon:</sup> 	 2021-05-08 10:57:26
+#### [封面](https://github.com/rdp-studio/ghiblog/issues/6) <sup>3 :speech_balloon:</sup> 	 2021-05-08 10:57:26
 
 :label: : [:framed_picture:封面](https://github.com/rdp-studio/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
 
@@ -112,7 +112,7 @@ Crawling GitHub Trending Pages if you click star or run at actions page.
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/rdp-studio/ghiblog/issues/6)  <sup>2 :speech_balloon:</sup>  	 
+- [封面](https://github.com/rdp-studio/ghiblog/issues/6)  <sup>3 :speech_balloon:</sup>  	 
 
 
 </details>
