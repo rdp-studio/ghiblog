@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/5"/>
+    <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 23:26:33"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 23:40:23"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -35,6 +35,17 @@
 - [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 - [此项目的ReadMe文件](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [计算机组成原理1 | 二进制编码：“手持两把锟斤拷，口中疾呼烫烫烫”？](https://github.com/rdp-studio/ghiblog/issues/8) <sup>0 :speech_balloon:</sup> 	 2021-05-08 23:39:57
+
+:label: : [</> 计算机组成原理](https://github.com/rdp-studio/ghiblog/labels/%3C/%3E%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+
+“锟斤拷”的来源是这样的。如果我们想要用 Unicode 编码记录一些文本，特别是一些遗留的老字符集内的文本，但是这些字符在 Unicode 中可能并不存在。于是，Unicode 会统一把这些字符记录为 U+FFFD 这个编码。如果用 UTF-8 的格式存储下来，就是\xef\xbf\xbd。如果连
+
+[更多>>>](https://github.com/rdp-studio/ghiblog/issues/8)
+
+---
+
 
 #### [2021-05-08开发总结](https://github.com/rdp-studio/ghiblog/issues/7) <sup>0 :speech_balloon:</sup> 	 2021-05-08 13:10:09
 
@@ -80,17 +91,6 @@ Crawling GitHub Trending Pages if you click star or run at actions page.
 ---
 
 
-#### [rdpmovy.js](https://github.com/rdp-studio/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:41:44
-
-:label: : [开源](https://github.com/rdp-studio/ghiblog/labels/%E5%BC%80%E6%BA%90)
-
-rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
-
-[更多>>>](https://github.com/rdp-studio/ghiblog/issues/3)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -130,6 +130,14 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 <summary></> 编程	<sup>1:newspaper:</sup></summary>
 
 - [2021-05-08开发总结](https://github.com/rdp-studio/ghiblog/issues/7)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary></> 计算机组成原理	<sup>1:newspaper:</sup></summary>
+
+- [计算机组成原理1 | 二进制编码：“手持两把锟斤拷，口中疾呼烫烫烫”？](https://github.com/rdp-studio/ghiblog/issues/8)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
