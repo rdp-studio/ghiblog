@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/3"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:28:27"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:33:19"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -63,7 +63,12 @@ push
 
 利用Github Action提供的工作流, 结合GitHub的API来实现:
 
-1.通过Github API获取当前仓库的(Issues)信息
+1.通过Github API获取当前仓库的(Issues)信息，如：
+
+- 总issue数量
+- 总label数量
+- 每个label下的issues列表
+- 最新更新(创建)的是哪些issue
 
 2.将这些信息组装出自己满意的README页面
 
@@ -87,11 +92,9 @@ push
 
 这些label目前是必须存在的，所以一定要先创建。
 
-:+1:置顶
-
-:framed_picture:封面
-
-开源
+- :+1:置顶
+- :framed_picture:封面
+- 开源
 
 4.创建一个issue试试？
 
