@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/3"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:34:21"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:35:19"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -47,15 +47,11 @@
 
 如果想解决上述的问题, 就要手动在发布issue之后, 手动更新README, 并且push到仓库, 那么你需要:
 
-一台电脑
-
-安装git
-
-clone仓库
-
-修改README
-
-push
+- 一台电脑
+- 安装git
+- clone仓库
+- 修改README
+- push
 
 很麻烦, 感觉慢慢没有了更新的动力 😢
 
