@@ -3,11 +3,12 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 09:32:53"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 10:35:18"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/release/rdp-studio/ghiblog"/>
+    <a href="https://github.com/rdp-studio/ghiblog/issues/1"><img src="https://badgen.net/badge/Powerd%20By/ghiblog"/></a>
 </p>
 
 <p align='center'>
@@ -59,7 +60,7 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 
 :label: : [:+1:置顶](https://github.com/rdp-studio/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 
-> 项目最新版本：1.0.0
+> 项目最新版本：1.0.1
 
 # ❓ Why
 
