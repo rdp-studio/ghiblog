@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/3"/>
+    <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:44:32"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:57:12"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -21,6 +21,17 @@
 - [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客项目ghiblog的ReadMe](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [发现一个在线下载油管视频的网站](https://github.com/rdp-studio/ghiblog/issues/4) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:56:48
+
+:label: : [:rocket: 日常](https://github.com/rdp-studio/ghiblog/labels/%3Arocket%3A%20%E6%97%A5%E5%B8%B8)
+
+地址：[点我访问](https://yt1s.com/zh-cn)
+
+[更多>>>](https://github.com/rdp-studio/ghiblog/issues/4)
+
+---
+
 
 #### [rdpmovy.js](https://github.com/rdp-studio/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:41:44
 
@@ -147,6 +158,14 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 <details>
 <summary>:framed_picture:封面	<sup>0:newspaper:</sup></summary>
 
+
+
+</details>
+
+<details>
+<summary>:rocket: 日常	<sup>1:newspaper:</sup></summary>
+
+- [发现一个在线下载油管视频的网站](https://github.com/rdp-studio/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
