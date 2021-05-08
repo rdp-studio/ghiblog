@@ -71,6 +71,7 @@ def bundle_summary_section():
     <img src="https://badgen.net/github/stars/{0}/ghiblog"/>
     <img src="https://badgen.net/github/watchers/{0}/ghiblog"/>
     <img src="https://badgen.net/github/release/{0}/ghiblog"/>
+    <a href="https://github.com/rdp-studio/ghiblog/issues/1"><img src="https://badgen.net/badge/Powerd%20By/ghiblog"/></a>
 </p>
 
 <p align='center'>
