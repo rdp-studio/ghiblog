@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:57:12"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 09:00:56"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -59,7 +59,7 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 
 :label: : [:+1:置顶](https://github.com/rdp-studio/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 
-# Why
+# ❓ Why
 
 现在很多人, 包括我, 在折腾了一堆个人博客的系统之后, 放弃了花哨的页面效果, 回过头来用Github Issue写博客.
 
@@ -77,7 +77,7 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 
 很麻烦, 感觉慢慢没有了更新的动力 😢
 
-# How it works
+# ❔ How it works
 
 利用Github Action提供的工作流, 结合GitHub的API来实现:
 
@@ -98,7 +98,7 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 
 于是, 你只需要写Issue就好了, 剩下的交给Github Action 🎉
 
-# You want too?
+# 🚀 You want too?
 
 如果你也想有一个自动更新的GitHub Issue博客, 那么参考以下步骤:
 
@@ -122,7 +122,7 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 
 ## 置顶
 
-只需要给你的issue打上 :+1:置顶 的标签即可。
+只需要给你的issue打上`:+1:置顶`的标签即可。
 
 ## 封面图片
 
