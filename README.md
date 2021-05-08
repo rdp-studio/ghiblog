@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 11:18:18"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 12:17:36"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -20,14 +20,14 @@
 
 
 <p align='center'>
-<a href='https://github.com/rdp-studio/ghiblog/issues/6#issuecomment-835294328'>
-<img src='https://rdp-github-readme-stats.vercel.app/api?username=rdp-studio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff' width='50%' alt='
-我的Github状态。'>
+<a href='https://github.com/rdp-studio/ghiblog/issues/6#issuecomment-835334837'>
+<img src='https://teadocs.cn.utools.club/static/snapshot.png' width='50%' alt='
+[Teadocs - 更便捷、更快速的文档生成工具。](https://teadocs.cn.utools.club)'>
 </a>
 </p>
 <p align='center'>
 <span>
-我的Github状态。</span>
+[Teadocs - 更便捷、更快速的文档生成工具。](https://teadocs.cn.utools.club)</span>
 </p>
 
     
@@ -36,7 +36,7 @@
 - [此项目的ReadMe文件](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [封面](https://github.com/rdp-studio/ghiblog/issues/6) <sup>1 :speech_balloon:</sup> 	 2021-05-08 10:57:26
+#### [封面](https://github.com/rdp-studio/ghiblog/issues/6) <sup>2 :speech_balloon:</sup> 	 2021-05-08 10:57:26
 
 :label: : [:framed_picture:封面](https://github.com/rdp-studio/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
 
@@ -112,7 +112,7 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/rdp-studio/ghiblog/issues/6)  <sup>1 :speech_balloon:</sup>  	 
+- [封面](https://github.com/rdp-studio/ghiblog/issues/6)  <sup>2 :speech_balloon:</sup>  	 
 
 
 </details>
