@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/4"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 10:43:40"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 10:57:54"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -22,6 +22,18 @@
 - [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 - [此项目的ReadMe文件](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [封面](https://github.com/rdp-studio/ghiblog/issues/6) <sup>0 :speech_balloon:</sup> 	 2021-05-08 10:57:26
+
+:label: : [:framed_picture:封面](https://github.com/rdp-studio/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
+
+![RDPStudio's github stats](https://rdp-github-readme-stats.vercel.app/api?username=rdp-studio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
+[更多>>>](https://github.com/rdp-studio/ghiblog/issues/6)
+
+---
+
 
 #### [GitHub-Trending-Crawler](https://github.com/rdp-studio/ghiblog/issues/5) <sup>0 :speech_balloon:</sup> 	 2021-05-08 10:41:52
 
@@ -67,90 +79,6 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 ---
 
 
-#### [此项目的ReadMe文件](https://github.com/rdp-studio/ghiblog/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:08:45
-
-:label: : [:+1:置顶](https://github.com/rdp-studio/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
-
-> 项目最新版本：1.0.1
-
-# ❓ Why
-
-现在很多人, 包括我, 在折腾了一堆个人博客的系统之后, 放弃了花哨的页面效果, 回过头来用Github Issue写博客.
-
-但头疼的一点就是:
-
-如果让其他人直接点到自己仓库的issues页面来看自己的文章的话, 只会看到issue的列表, 没有突出内容, 没有分类, 没有about me, 只有一条条的issue.
-
-如果想解决上述的问题, 就要手动在发布issue之后, 手动更新README, 并且push到仓库, 那么你需要:
-
-- 一台电脑
-- 安装git
-- clone仓库
-- 修改README
-- push
-
-很麻烦, 感觉慢慢没有了更新的动力 😢
-
-# ❔ How it works
-
-利用Github Action提供的工作流, 结合GitHub的API来实现:
-
-1.通过Github API获取当前仓库的(Issues)信息，如：
-
-- 总issue数量
-- 总label数量
-- 每个label下的issues列表
-- 最新更新(创建)的是哪些issue
-
-2.将这些信息组装出自己满意的README页面
-
-3.更新仓库的README.md文件
-
-4.提交README.md的变更到远程仓库, 到这里, 我们的痛点就解决了一半, 剩下就是将步骤1-4在创建issue， 修改issue， 删除issue， 为issue新增label， 从删除label等等的动作之后触发了。
-
-5.集成Github Action, 设置触发条件为: on: [issues, issue_comment], 完成！
-
-于是, 你只需要写Issue就好了, 剩下的交给Github Action 🎉
-
-# 🚀 You want too?
-
-如果你也想有一个自动更新的GitHub Issue博客, 那么参考以下步骤:
-
-1.fork此仓库到你的账号下
-
-2.修改 .github/workflow/main.yml 的第 20， 25， 26， 30， 34行内容，具体改成什么你应该懂得。
-
-3.在你的仓库中建以下几个label：
-
-这些label目前是必须存在的，所以一定要先创建。
-
-- :+1:置顶
-- :framed_picture:封面
-- 开源
-
-4.创建一个issue试试？
-
-至此, 如果不出意外, 你的ghiblog的自动更新就完成了.
-
-# 功能说明
-
-## 置顶
-
-只需要给你的issue打上`:+1:置顶`的标签即可。
-
-## 封面图片
-
-新建一个issue， 并给这个issue打上`:framed_picture:封面`标签，(最好只给一个issue打上此标签。)
-
-这个issue中的所有评论内容都要遵循下面的格式：
-
-图片<br/>
-
-[更多>>>](https://github.com/rdp-studio/ghiblog/issues/1)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -170,8 +98,9 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 </details>
 
 <details>
-<summary>:framed_picture:封面	<sup>0:newspaper:</sup></summary>
+<summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
+- [封面](https://github.com/rdp-studio/ghiblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
