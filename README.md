@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/3"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:40:45"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 08:42:39"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -21,6 +21,17 @@
 - [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 - [项目ReadMe](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [rdpmovy.js](https://github.com/rdp-studio/ghiblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:41:44
+
+:label: : [开源](https://github.com/rdp-studio/ghiblog/labels/%E5%BC%80%E6%BA%90)
+
+rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
+
+[更多>>>](https://github.com/rdp-studio/ghiblog/issues/3)
+
+---
+
 
 #### [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:27:58
 
@@ -141,11 +152,19 @@
 </details>
 
 <details>
-<summary>开源	<sup>0:newspaper:</sup></summary>
+<summary>开源	<sup>1:newspaper:</sup></summary>
 
+- [rdpmovy.js](https://github.com/rdp-studio/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 
 </details>    
+
+# 开源项目
+
+
+| [rdpmovy.js](https://github.com/rdp-studio/rdpmovy.js) | rdpmovy.js is an easy-to-use animation engine based on three.js and gsap. | ![](https://badgen.net/github/stars/rdp-studio/rdpmovy.js) ![](https://badgen.net/github/forks/rdp-studio/rdpmovy.js) ![](https://badgen.net/github/watchers/rdp-studio/rdpmovy.js) |
+| --- | --- | --- |
+
