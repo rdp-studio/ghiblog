@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/4"/>
+    <img src="https://badgen.net/badge/labels/5"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-08 12:23:22"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-08 13:10:41"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -35,6 +35,17 @@
 - [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 - [此项目的ReadMe文件](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [2021-05-08开发总结](https://github.com/rdp-studio/ghiblog/issues/7) <sup>0 :speech_balloon:</sup> 	 2021-05-08 13:10:09
+
+:label: : [:rocket: 日常](https://github.com/rdp-studio/ghiblog/labels/%3Arocket%3A%20%E6%97%A5%E5%B8%B8), [</> 编程](https://github.com/rdp-studio/ghiblog/labels/%3C/%3E%20%E7%BC%96%E7%A8%8B)
+
+今天完成了整个ghiblog系统v1.0大版本的编写，目前没有bug，今天又是美好的一天！（虽然开发途中出现了一堆bug不过都在本地调试的没有提交）。
+
+[更多>>>](https://github.com/rdp-studio/ghiblog/issues/7)
+
+---
+
 
 #### [封面](https://github.com/rdp-studio/ghiblog/issues/6) <sup>2 :speech_balloon:</sup> 	 2021-05-08 10:57:26
 
@@ -80,17 +91,6 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 ---
 
 
-#### [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2) <sup>0 :speech_balloon:</sup> 	 2021-05-08 08:27:58
-
-:label: : [:+1:置顶](https://github.com/rdp-studio/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
-
-我们是RDPStudio，自2019年（8.31日）成立至今已经走过了3年。一切的开始——一个钉钉组织。至今只有创建者兼开发人员曾维康以及开发人员黎小悦2人属于骨干人员，目前已经开发（或改进第三方项目）97+个。尽管RDPStudio已有多年的历史，但它的去从仍然是个连RDPStudio管理者都不知
-
-[更多>>>](https://github.com/rdp-studio/ghiblog/issues/2)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -118,9 +118,18 @@ rdpmovy.js is an easy-to-use animation engine based on three.js and gsap.
 </details>
 
 <details>
-<summary>:rocket: 日常	<sup>1:newspaper:</sup></summary>
+<summary>:rocket: 日常	<sup>2:newspaper:</sup></summary>
 
+- [2021-05-08开发总结](https://github.com/rdp-studio/ghiblog/issues/7)  <sup>0 :speech_balloon:</sup>  	 
 - [发现一个在线下载油管视频的网站](https://github.com/rdp-studio/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary></> 编程	<sup>1:newspaper:</sup></summary>
+
+- [2021-05-08开发总结](https://github.com/rdp-studio/ghiblog/issues/7)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
