@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-09 05:46:09"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-09 12:49:07"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -37,6 +37,17 @@
 - [RDPStudio团队（工作室）介绍](https://github.com/rdp-studio/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 - [此项目的ReadMe文件](https://github.com/rdp-studio/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [2021-05-09开发总结](https://github.com/rdp-studio/ghiblog/issues/10) <sup>0 :speech_balloon:</sup> 	 2021-05-09 12:48:36
+
+:label: : [:rocket: 日常](https://github.com/rdp-studio/ghiblog/labels/%3Arocket%3A%20%E6%97%A5%E5%B8%B8)
+
+今天我们团队很闲，闲的发慌，搞了个勒索软件（命名为"CryptoLocker"，不过程序不加密文件只锁机，详见<a href="http://unlock.cn.utools.club/app.html">网站</a>），不说了，虽然程序没有bug，但还是太闲了。
+
+[更多>>>](https://github.com/rdp-studio/ghiblog/issues/10)
+
+---
+
 
 #### [ghiblog](https://github.com/rdp-studio/ghiblog/issues/9) <sup>0 :speech_balloon:</sup> 	 2021-05-09 01:06:51
 
@@ -82,17 +93,6 @@ GitHub Issues Blog, powered by GitHub Issues and GitHub Actions.
 ---
 
 
-#### [GitHub-Trending-Crawler](https://github.com/rdp-studio/ghiblog/issues/5) <sup>0 :speech_balloon:</sup> 	 2021-05-08 10:41:52
-
-:label: : [开源](https://github.com/rdp-studio/ghiblog/labels/%E5%BC%80%E6%BA%90)
-
-Crawling GitHub Trending Pages if you click star or run at actions page.
-
-[更多>>>](https://github.com/rdp-studio/ghiblog/issues/5)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -120,8 +120,9 @@ Crawling GitHub Trending Pages if you click star or run at actions page.
 </details>
 
 <details>
-<summary>:rocket: 日常	<sup>2:newspaper:</sup></summary>
+<summary>:rocket: 日常	<sup>3:newspaper:</sup></summary>
 
+- [2021-05-09开发总结](https://github.com/rdp-studio/ghiblog/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 - [2021-05-08开发总结](https://github.com/rdp-studio/ghiblog/issues/7)  <sup>0 :speech_balloon:</sup>  	 
 - [发现一个在线下载油管视频的网站](https://github.com/rdp-studio/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
 
