@@ -71,10 +71,12 @@ def bundle_summary_section():
     <img src="https://badgen.net/github/stars/{0}/ghiblog"/>
     <img src="https://badgen.net/github/watchers/{0}/ghiblog"/>
     <img src="https://badgen.net/github/release/{0}/ghiblog"/>
-    <a href="https://github.com/rdp-studio/ghiblog/issues/1"><img src="https://badgen.net/badge/Powerd%20By/ghiblog"/></a>
 </p>
 
 <p align='center'>
+    <!-- DO NOT REMOVE! -->
+    <a href="https://github.com/rdp-studio/ghiblog/issues/1"><img src="https://badgen.net/badge/Powerd%20By/ghiblog"/></a>
+    <!-- DO NOT REMOVE! -->
     <a href="https://github.com/jwenjian/visitor-count-badge">
         <img src="https://visitor-badge.glitch.me/badge?page_id=rdp-studio.ghiblog"/>
     </a>
@@ -154,8 +156,8 @@ def bundle_list_by_labels_section():
 
 <details open="open">
     <summary>
-        <img src="%s" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
-        <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
+        <img src="%s" title="词云, 点击下方展开详细分类" alt="词云， 点击展开详细分类">
+        <p align="center">:cloud: 词云 :cloud: <sub>点击下方展开详细分类:point_down: </sub></p>
     </summary>
 
 """ % (wordcloud_image_url,)
