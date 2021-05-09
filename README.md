@@ -3,15 +3,17 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-09 01:07:20"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-09 02:45:40"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/release/rdp-studio/ghiblog"/>
-    <a href="https://github.com/rdp-studio/ghiblog/issues/1"><img src="https://badgen.net/badge/Powerd%20By/ghiblog"/></a>
 </p>
 
 <p align='center'>
+    <!-- DO NOT REMOVE! -->
+    <a href="https://github.com/rdp-studio/ghiblog/issues/1"><img src="https://badgen.net/badge/Powerd%20By/ghiblog"/></a>
+    <!-- DO NOT REMOVE! -->
     <a href="https://github.com/jwenjian/visitor-count-badge">
         <img src="https://visitor-badge.glitch.me/badge?page_id=rdp-studio.ghiblog"/>
     </a>
@@ -95,8 +97,8 @@ Crawling GitHub Trending Pages if you click star or run at actions page.
 
 <details open="open">
     <summary>
-        <img src="assets/wordcloud.png" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
-        <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
+        <img src="assets/wordcloud.png" title="词云, 点击下方展开详细分类" alt="词云， 点击展开详细分类">
+        <p align="center">:cloud: 词云 :cloud: <sub>点击下方展开详细分类:point_down: </sub></p>
     </summary>
 
 
