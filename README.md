@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/6"/>
     <img src="https://badgen.net/github/issues/rdp-studio/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-09 12:49:07"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-10 06:58:13"/>
     <img src="https://badgen.net/github/forks/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/stars/rdp-studio/ghiblog"/>
     <img src="https://badgen.net/github/watchers/rdp-studio/ghiblog"/>
@@ -40,7 +40,7 @@
 
 #### [2021-05-09开发总结](https://github.com/rdp-studio/ghiblog/issues/10) <sup>0 :speech_balloon:</sup> 	 2021-05-09 12:48:36
 
-:label: : [:rocket: 日常](https://github.com/rdp-studio/ghiblog/labels/%3Arocket%3A%20%E6%97%A5%E5%B8%B8)
+:label: : [:rocket: 日常](https://github.com/rdp-studio/ghiblog/labels/%3Arocket%3A%20%E6%97%A5%E5%B8%B8), [</> 编程](https://github.com/rdp-studio/ghiblog/labels/%3C/%3E%20%E7%BC%96%E7%A8%8B)
 
 今天我们团队很闲，闲的发慌，搞了个勒索软件（命名为"CryptoLocker"，不过程序不加密文件只锁机，详见<a href="http://unlock.cn.utools.club/app.html">网站</a>），不说了，虽然程序没有bug，但还是太闲了。
 
@@ -130,8 +130,9 @@ GitHub Issues Blog, powered by GitHub Issues and GitHub Actions.
 </details>
 
 <details>
-<summary></> 编程	<sup>1:newspaper:</sup></summary>
+<summary></> 编程	<sup>2:newspaper:</sup></summary>
 
+- [2021-05-09开发总结](https://github.com/rdp-studio/ghiblog/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 - [2021-05-08开发总结](https://github.com/rdp-studio/ghiblog/issues/7)  <sup>0 :speech_balloon:</sup>  	 
 
 
